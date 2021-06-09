@@ -1,0 +1,5 @@
+primera linea del texto
+añado segunda linea
+
+describo los tipos de lineas del codigo en texto
+y añado mas linas para hacer pull y push
